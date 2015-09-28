@@ -29,12 +29,12 @@ var dataLeft =
     { "skill": "PHP", "progress": 70 }];
 
 //Data for right div
-var dataRight =                
-   [{ "skill": "HTML", "progress": 100 }, 
-    { "skill": "CSS", "progress": 90 }, 
-    { "skill": "JavaScript", "progress": 90 }, 
-    { "skill": "jQuery", "progress": 80 }, 
-    { "skill": "PHP", "progress": 70 }];
+var dataRight =  
+   [{"skill": "AngularJS", "progress": 60}, 
+    {"skill": "SASS", "progress": 60}, 
+    {"skill": "Bootstrap", "progress": 50}, 
+    {"skill": "MySQL", "progress": 70}, 
+    {"skill": "PHP", "progress": 70}];
 
 anchorLeft = d3.select("#leftSkills");
 
